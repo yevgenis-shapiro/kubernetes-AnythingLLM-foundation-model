@@ -2,7 +2,7 @@
 
 
 ## Generative AI | AnythingLLM Workflows 🚀🚀🚀
-Langfuse is an open-source LLM engineering platform (GitHub) that helps teams collaboratively debug, analyze, and iterate on their LLM applications. All platform features are natively integrated to accelerate the development workflow. Langfuse is open, self-hostable, and extensible
+Anything LLM is a versatile framework provided by Mintplex Labs that allows for the integration and deployment of various LLMs, embedders, and vector databases. It provides connectors and tools to easily swap components and create customized AI solutions.
 
 🧱  Key Features
 ```
